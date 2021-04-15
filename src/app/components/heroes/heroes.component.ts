@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { HeroesService, Heroe } from '../../servicios/heroes.service';
 import { Router } from '@angular/router';
-import { timeStamp } from 'node:console';
 @Component({
   selector: 'app-heroes',
   templateUrl: './heroes.component.html'
