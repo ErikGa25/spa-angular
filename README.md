@@ -1,4 +1,4 @@
-## Simple Web Aplication
+## Single Page Application
 
 ### Instrucciones:
 
